@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"debug": false,
+	"installed_packages":
+	[
+		"A File Icon",
+		"Compare Side-By-Side",
+		"EditorConfig",
+		"EditorConfigSnippets",
+		"GitSavvy",
+		"LSP",
+		"MarkdownPreview",
+		"Package Control",
+		"SublimeLinter",
+		"Terminus",
+		"WordingStatus",
+	],
+}
